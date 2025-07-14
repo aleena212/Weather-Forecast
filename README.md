@@ -1,11 +1,20 @@
-# Weather-Forecast
-This is a simple and responsive Weather Forecast web application developed using HTML, CSS, and JavaScript. It allows users to search for any city and view real-time weather information including temperature, humidity, and weather conditions.
-Features:
-Search weather by city name
-Displays temperature, humidity, and general weather conditions
-Responsive design for mobile and desktop
-Real-time updates using a weather API
-Technologies Used:
-HTML for structure
-CSS for styling and layout
-JavaScript for functionality and API integration
+# 🌦️ Weather Forecast Web App
+
+A simple and responsive Weather Forecast web application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to check real-time weather information for any city using a weather API.
+
+## 🔧 Features
+
+- 🌍 Search weather by city name
+- ☀️ Real-time temperature, humidity, and weather conditions
+- 📱 Responsive design for mobile and desktop
+- 🔄 Dynamic UI updates based on fetched weather data
+
+## 🛠️ Tech Stack
+
+- **HTML** – For structure
+- **CSS** – For styling and responsive layout
+- **JavaScript** – For API integration and interactivity
+
+## 🌐 API Used
+
+- OpenWeatherMap API *(or mention the one you used)*
